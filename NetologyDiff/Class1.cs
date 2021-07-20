@@ -4,6 +4,7 @@ namespace NetologyDiff
 {
     public class Class1
     {
+        //Delegates
         public delegate string ExampleDelegate(int arg1, long arg2);
 
         public event ExampleDelegate ExampleEventHandler;

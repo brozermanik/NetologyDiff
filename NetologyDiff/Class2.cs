@@ -4,6 +4,7 @@ namespace NetologyDiff
 {
     public class Class2
     {
+        //Delegates2
         public event EventHandler<Class2> ExampleEventHandler;
 
         public void CreateBinds()
