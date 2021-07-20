@@ -18,6 +18,8 @@ namespace NetologyDiff
 
             Func<int, long, string> func2 = Print;
             Action<int, long, string> func3 = Print2;
+
+            func3(10, 20, "yo");
         }
 
         public string Print(int arg1, long arg2)
