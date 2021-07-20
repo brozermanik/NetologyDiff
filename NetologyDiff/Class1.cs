@@ -1,4 +1,6 @@
-﻿namespace NetologyDiff
+﻿using System;
+
+namespace NetologyDiff
 {
     public class Class1
     {
@@ -16,6 +18,20 @@
                 }
                 else return "Less";
             };
+
+            ExampleEventHandler += Print;
+            ExampleEventHandler -= Print;
+        }
+
+        public string Print(int arg1, long l)
+        {
+            Console.WriteLine("call");
+            return string.Empty;
+        }
+
+        public string CallBackMethod()
+        {
+            return ExampleEventHandler?.Invoke(10,20);
         }
     }
 }

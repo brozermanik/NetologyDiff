@@ -6,7 +6,10 @@ namespace NetologyDiff
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var r = new Class1();
+            Console.WriteLine(r.CallBackMethod());
+            r.CreateBinds();
+            Console.WriteLine(r.CallBackMethod());
         }
     }
 }

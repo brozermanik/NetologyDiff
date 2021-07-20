@@ -1,0 +1,16 @@
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\bin\Debug\net5.0\NetologyDiff.exe
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\bin\Debug\net5.0\NetologyDiff.deps.json
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\bin\Debug\net5.0\NetologyDiff.runtimeconfig.json
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\bin\Debug\net5.0\NetologyDiff.runtimeconfig.dev.json
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\bin\Debug\net5.0\NetologyDiff.dll
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\bin\Debug\net5.0\ref\NetologyDiff.dll
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\bin\Debug\net5.0\NetologyDiff.pdb
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\obj\Debug\net5.0\NetologyDiff.csprojAssemblyReference.cache
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\obj\Debug\net5.0\NetologyDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\obj\Debug\net5.0\NetologyDiff.AssemblyInfoInputs.cache
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\obj\Debug\net5.0\NetologyDiff.AssemblyInfo.cs
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\obj\Debug\net5.0\NetologyDiff.csproj.CoreCompileInputs.cache
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\obj\Debug\net5.0\NetologyDiff.dll
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\obj\Debug\net5.0\ref\NetologyDiff.dll
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\obj\Debug\net5.0\NetologyDiff.pdb
+C:\Users\bif\RiderProjects\NetologyDiff\NetologyDiff\obj\Debug\net5.0\NetologyDiff.genruntimeconfig.cache
